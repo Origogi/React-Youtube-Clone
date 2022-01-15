@@ -12,4 +12,5 @@
 
 .sideNav_item:hover {
   background-color: rgb(71, 55, 55, 0.1);
+  cursor: pointer;
 }
