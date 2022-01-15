@@ -1,0 +1,18 @@
+.sideNav {
+  display: flex;
+  flex-direction: column;
+  flex: 0.15;
+}
+
+.sideNav_heaer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+
+.sideNav_heaer > img {
+  height: 20px;
+}

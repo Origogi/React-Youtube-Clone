@@ -1,9 +1,13 @@
 import './App.css';
+import SideNav from './SideNav';
 
 function App() {
   return (
     <div className="App">
-      <h1>Youtube clone!</h1>
+      <SideNav />
+      
+      {/* Header */}
+      {/* Body */}
     </div>
   );
 }
