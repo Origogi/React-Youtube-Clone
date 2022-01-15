@@ -1,4 +1,12 @@
-import { Home, HomeOutlined, Menu } from "@mui/icons-material";
+import {
+  ExploreOutlined,
+  Home,
+  HomeOutlined,
+  Menu,
+  PlayCircleOutline,
+  SubscriptionsOutlined,
+  YouTube,
+} from "@mui/icons-material";
 import React from "react";
 import "./SideNav.css";
 import SideNavItem from "./SideNavItem";
@@ -15,6 +23,11 @@ function SideNav() {
       </div>
 
       <SideNavItem title="홈" image={<HomeOutlined />} />
+      <SideNavItem title="탐색" image={<ExploreOutlined />} />
+      <SideNavItem title="구독" image={<SubscriptionsOutlined />} />
+      <SideNavItem title="Originals" image={<YouTube />} />
+      <SideNavItem title="Youtube Music" image={<PlayCircleOutline />} />
+
     </div>
   );
 }
