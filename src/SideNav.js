@@ -7,6 +7,7 @@ import {
   SubscriptionsOutlined,
   YouTube,
 } from "@mui/icons-material";
+import { Divider } from "@mui/material";
 import React from "react";
 import "./SideNav.css";
 import SideNavItem from "./SideNavItem";
@@ -28,6 +29,9 @@ function SideNav() {
       <SideNavItem title="Originals" image={<YouTube />} />
       <SideNavItem title="Youtube Music" image={<PlayCircleOutline />} />
 
+      <div className="sideNav_divider">
+        <Divider />
+      </div>
     </div>
   );
 }
