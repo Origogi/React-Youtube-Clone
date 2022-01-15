@@ -4,15 +4,16 @@
   flex: 0.15;
 }
 
-.sideNav_heaer {
+.sideNav_header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-evenly;
+  padding-left: 20px;
   padding-top: 15px;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
 }
 
-.sideNav_heaer > img {
+.sideNav_header > img {
   height: 20px;
+  padding-left: 20px;
 }
