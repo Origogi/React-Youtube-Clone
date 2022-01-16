@@ -109,7 +109,7 @@ function SideNav() {
         <Divider />
       </div>
       <div className="sideNav_footer">
-        <div className="sideNav_footer_item">
+        <div className="sideNav_footer_item_1">
           <h6>정보</h6>
           <h6>보도자료</h6>
           <h6>저작권</h6>
@@ -117,6 +117,21 @@ function SideNav() {
           <h6>크리에이터</h6>
           <h6>광고</h6>
           <h6>개발자</h6>
+        </div>
+
+        <div className="sideNav_footer_item_1">
+          <h6>약관</h6>
+          <h6>개인정보처리방침</h6>
+          <h6>정책 및 안전</h6>
+          <h6>Youtube 작동의 원리</h6>
+          <h6>새로운 기능 테스트하기</h6>
+        </div>
+
+        <div className="sideNav_footer_item_2">
+          <h6>© 2022 Google LLC</h6>
+          <h6>CEO: 선다 피차이</h6>
+          <h6>주소: 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.</h6>
+          <h6>전화: 080-822-1450(무료)</h6>
         </div>
       </div>
     </div>

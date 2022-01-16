@@ -1,7 +1,7 @@
 .sideNav {
   display: flex;
   flex-direction: column;
-  width: 220px;
+  width: 210px;
 }
 
 .sideNav_header {

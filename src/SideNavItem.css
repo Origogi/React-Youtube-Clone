@@ -18,20 +18,31 @@
 .sideNav_footer {
   padding-left: 20px;
   padding-right: 20px;
-  padding-bottom: 20px;
 }
 
-.sideNav_footer_item {
+.sideNav_footer_item_1 {
   display: flex;
   flex-wrap: wrap;
+  padding-bottom: 15px;
 }
 
-.sideNav_footer_item > h6{
-  font-weight: 200;
-  margin: 0 6px 0 0;
+.sideNav_footer_item_1 > h6 {
+  font-weight: 400;
+  margin: 0 6px 2px 0;
 }
 
-.sideNav_footer_item > h6:hover{
+.sideNav_footer_item_1 > h6:hover{
   cursor: pointer;
+}
 
+.sideNav_footer_item_2 {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 15px;
+}
+
+.sideNav_footer_item_2 > h6 {
+  font-weight: 200;
+  margin: 0 0 2px 0;
+  color: rgb(97, 97, 97);
 }
