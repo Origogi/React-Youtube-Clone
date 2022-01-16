@@ -105,6 +105,20 @@ function SideNav() {
         />
         <SideNavItem title="20개 더보기" image={<ExpandMore />} />
       </div>
+      <div className="sideNav_divider">
+        <Divider />
+      </div>
+      <div className="sideNav_footer">
+        <div className="sideNav_footer_item">
+          <h6>정보</h6>
+          <h6>보도자료</h6>
+          <h6>저작권</h6>
+          <h6>문의하기</h6>
+          <h6>크리에이터</h6>
+          <h6>광고</h6>
+          <h6>개발자</h6>
+        </div>
+      </div>
     </div>
   );
 }
