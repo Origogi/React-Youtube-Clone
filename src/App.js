@@ -1,5 +1,5 @@
 import './App.css';
-import SideNav from './SideNav';
+import SideNav from './SideNav/SideNav';
 
 function App() {
   return (
