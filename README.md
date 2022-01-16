@@ -17,3 +17,6 @@ Youtube 의 Layout은 크게 Side Nav., Header, Body 로 구성할수 있다.
 ![image](https://user-images.githubusercontent.com/35194820/149611759-5d0a096f-c697-47f0-9aa6-5d544e9be5a6.png)
 
 ### 2.1 Side Nav
+
+![image](https://user-images.githubusercontent.com/35194820/149654101-d328d9f7-7b97-4a7d-bd1c-e99a1a6b9ec1.png)
+
