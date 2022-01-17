@@ -1,0 +1,14 @@
+.tag {
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(200, 200, 200);
+    background-color: rgb(240, 240, 240);
+    border-radius: 99px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.tag > h5 {
+    font-weight: 400;
+    margin: 3px 15px 3px 15px;
+}

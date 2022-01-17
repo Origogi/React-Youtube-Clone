@@ -1,12 +1,24 @@
-import React from 'react'
-import './TagContainer.css'
+import React from "react";
+import "./TagContainer.css";
+import { Divider } from "@mui/material";
+import Tag from "./Tag";
 
 function TagContainer() {
-    return (
-        <div className='tagContainer'>
-            <h1>Tag Container</h1>
-        </div>
-    )
+  return (
+    <div className="tagContainer">
+      <Divider />
+      <div className="tagContainer_col">
+          <Tag />
+          <Tag />
+          <Tag />
+          <Tag />
+          <Tag />
+          <Tag />
+
+      </div>
+      <Divider  />
+    </div>
+  );
 }
 
-export default TagContainer
+export default TagContainer;
