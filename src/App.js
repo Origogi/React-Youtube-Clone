@@ -3,6 +3,7 @@ import SideNav from "./SideNav/SideNav";
 import Searcher from "./Header/Searcher";
 import Header from "./Header/Header";
 import Content from "./Content/Content";
+import TagContainer from "./Content/TagContainer";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <SideNav />
         </div>
         <div className="App_content">
+          <TagContainer />
           <Content />
         </div>
       </div>
