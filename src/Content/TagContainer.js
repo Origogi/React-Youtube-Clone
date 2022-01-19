@@ -10,7 +10,6 @@ function TagContainer() {
 
   return (
     <div className="tagContainer" ref={scrollRef}>
-      <Divider />
       <div className="tagContainer_col"  >
           <Tag title="전체"/>
           <Tag title="실시간"/>
@@ -31,7 +30,6 @@ function TagContainer() {
           <Tag title="감상한 동영상"/>
 
       </div>
-      <Divider  />
     </div>
   );
 }
