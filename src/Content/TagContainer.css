@@ -7,7 +7,7 @@
 .tagContainer {
     width: calc(100% - 210px);
     position: fixed;
-    left: 210px;
+    left: 226px;
     overflow-x: auto;
     border-top: 1px solid #dbdbdb;
     border-bottom: 1px solid #dbdbdb;

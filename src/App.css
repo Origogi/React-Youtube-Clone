@@ -33,7 +33,7 @@
 }
 
 .App_content {
-  width: calc(100% - 210px);
+  width: calc(100% - 210px - 16px);
 }
 
 *::-webkit-scrollbar {
