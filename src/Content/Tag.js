@@ -1,10 +1,10 @@
 import React from 'react'
 import './Tag.css'
 
-function Tag() {
+function Tag({ title }) {
     return (
         <div className='tag'>
-            <h5>Item</h5>
+            <h5>{title}</h5>
         </div>
     )
 }
