@@ -1,6 +1,5 @@
 import React from "react";
 import "./TagContainer.css";
-import { Divider } from "@mui/material";
 import Tag from "./Tag";
 import { useRef, useEffect } from "react";
 

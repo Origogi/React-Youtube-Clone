@@ -1,9 +1,8 @@
 import "./App.css";
 import SideNav from "./SideNav/SideNav";
-import Searcher from "./Header/Searcher";
 import Header from "./Header/Header";
-import Content from "./Content/Content";
 import TagContainer from "./Content/TagContainer";
+import VideoContainer from "./Content/VideoContainer";
 
 function App() {
   return (
@@ -17,7 +16,7 @@ function App() {
         </div>
         <div className="App_content">
           <TagContainer />
-          <Content />
+          <VideoContainer />
         </div>
       </div>
 
