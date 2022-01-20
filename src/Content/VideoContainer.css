@@ -1,8 +1,8 @@
 .videoContainer {
-    width: 270px;
+
 }
 
 .videoContainer_thumbnail {
-    height: 140px;
     width: 250px;
+    height: 140px;
 }
