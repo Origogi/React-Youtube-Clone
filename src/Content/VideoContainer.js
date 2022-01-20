@@ -1,12 +1,10 @@
-import React from 'react'
+import React from 'react';
 import './VideoContainer.css'
 
-function VideoContainer() {
-    return (
-        <div className='vidooContainer'>
-            <h1>App Contents</h1>
-        </div>
-    )
+function VideoContainer({ imgSrc }) {
+  return <div className='videoContainer'>
+      <img className = 'videoContainer_thumbnail' src = { imgSrc }/>
+  </div>;
 }
 
-export default VideoContainer
+export default VideoContainer;

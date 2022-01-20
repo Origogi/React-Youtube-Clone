@@ -1,5 +1,8 @@
-.vidooContainer {
-    margin-top: 48px;
-    background-color: #f9f9f9;
-    height: calc(100% - 48px);
+.videoContainer {
+    width: 270px;
+}
+
+.videoContainer_thumbnail {
+    height: 140px;
+    width: 250px;
 }
