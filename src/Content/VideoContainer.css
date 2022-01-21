@@ -24,7 +24,7 @@
   font-weight: 600;
   display: -webkit-box;
   max-width: 100%;
-  margin: 0 auto;
+  margin: 0 auto 10px 0;
   -webkit-line-clamp: 2;
   /* autoprefixer: off */
   -webkit-box-orient: vertical;
@@ -35,5 +35,7 @@
 
 .videoContainer_content_desc > h6 {
   margin: 0;
+  font-weight: 400;
+  font-size: small;
 
 }

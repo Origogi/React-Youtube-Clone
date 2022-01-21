@@ -7,48 +7,299 @@ function VideocontentsContainer() {
     <div className="videoContentsContainer">
       <VideoContainer
         avatarSrc={
-          "https://yt3.ggpht.com/ytc/AKedOLTWy5S-BJSafYXlfX-5Cj0C5ztuAHZ8zR2Ncls8qg=s68-c-k-c0x00ffffff-no-rj"
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
         }
         imgSrc={
-          "https://i.ytimg.com/vi/KHXosa22McU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN9dN6AQK04L2hb-5T25vrwbwkLw"
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
         }
         title={
-          "[영화리뷰/결말포함] 스파이더맨1 전설의 시작!/노웨이홈 보기 전 필수 감상(샘스파1 20분 완전정복) "
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
         }
       />
-      <VideoContainer
+            <VideoContainer
         avatarSrc={
-          "https://yt3.ggpht.com/ytc/AKedOLTWy5S-BJSafYXlfX-5Cj0C5ztuAHZ8zR2Ncls8qg=s68-c-k-c0x00ffffff-no-rj"
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
         }
         imgSrc={
-          "https://i.ytimg.com/vi/KHXosa22McU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN9dN6AQK04L2hb-5T25vrwbwkLw"
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
         }
         title={
-          "[영화리뷰/결말포함] 스파이더맨1 전설의 시작!/노웨이홈 보기 전 필수 감상(샘스파1 20분 완전정복) "
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
         }
       />
-      <VideoContainer
+            <VideoContainer
         avatarSrc={
-          "https://yt3.ggpht.com/ytc/AKedOLTWy5S-BJSafYXlfX-5Cj0C5ztuAHZ8zR2Ncls8qg=s68-c-k-c0x00ffffff-no-rj"
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
         }
         imgSrc={
-          "https://i.ytimg.com/vi/KHXosa22McU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN9dN6AQK04L2hb-5T25vrwbwkLw"
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
         }
         title={
-          "[영화리뷰/결말포함] 스파이더맨1 전설의 시작!/노웨이홈 보기 전 필수 감상(샘스파1 20분 완전정복) "
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
         }
       />
-      <VideoContainer
+            <VideoContainer
         avatarSrc={
-          "https://yt3.ggpht.com/ytc/AKedOLTWy5S-BJSafYXlfX-5Cj0C5ztuAHZ8zR2Ncls8qg=s68-c-k-c0x00ffffff-no-rj"
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
         }
         imgSrc={
-          "https://i.ytimg.com/vi/KHXosa22McU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN9dN6AQK04L2hb-5T25vrwbwkLw"
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
         }
         title={
-          "[영화리뷰/결말포함] 스파이더맨1 전설의 시작!/노웨이홈 보기 전 필수 감상(샘스파1 20분 완전정복) "
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
         }
       />
+            <VideoContainer
+        avatarSrc={
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
+        }
+        imgSrc={
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
+        }
+        title={
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
+        }
+      />
+            <VideoContainer
+        avatarSrc={
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
+        }
+        imgSrc={
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
+        }
+        title={
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
+        }
+      />
+            <VideoContainer
+        avatarSrc={
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
+        }
+        imgSrc={
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
+        }
+        title={
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
+        }
+      />
+            <VideoContainer
+        avatarSrc={
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
+        }
+        imgSrc={
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
+        }
+        title={
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
+        }
+      />
+            <VideoContainer
+        avatarSrc={
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
+        }
+        imgSrc={
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
+        }
+        title={
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
+        }
+      />
+            <VideoContainer
+        avatarSrc={
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
+        }
+        imgSrc={
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
+        }
+        title={
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
+        }
+      />
+            <VideoContainer
+        avatarSrc={
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
+        }
+        imgSrc={
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
+        }
+        title={
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
+        }
+      />
+            <VideoContainer
+        avatarSrc={
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
+        }
+        imgSrc={
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
+        }
+        title={
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
+        }
+      />
+            <VideoContainer
+        avatarSrc={
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
+        }
+        imgSrc={
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
+        }
+        title={
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
+        }
+      />
+            <VideoContainer
+        avatarSrc={
+          "https://yt3.ggpht.com/lhqOqy7EZrOa9BBe9XKWafeH7kw3kfJy5QtDWdGvuu8tADalm3g2jDveboMu2USuCJqklgiirw=s68-c-k-c0x00ffffff-no-rj"
+        }
+        imgSrc={
+          "https://i.ytimg.com/vi/Tqjt0atjFv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7gFAHwYLtUz9d20AswZs7vtdrw"
+        }
+        title={
+          "리브 샌박 vs. 광동 | 매치15 하이라이트 | 01.21 | 2022 LCK 스프링 스플릿"
+        }
+        subscriber={
+          "LCK"
+        }
+
+        uploadTime={
+          "10분전"
+        }
+        views={
+          "조회수 816회"
+        }
+      />
+      
     </div>
   );
 }

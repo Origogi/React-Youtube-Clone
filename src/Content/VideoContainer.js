@@ -2,7 +2,7 @@ import { Avatar } from "@mui/material";
 import React from "react";
 import "./VideoContainer.css";
 
-function VideoContainer({ imgSrc, avatarSrc, title }) {
+function VideoContainer({ imgSrc, avatarSrc, title, subscriber, uploadTime, views }) {
   return (
     <div className="videoContainer">
       <img className="videoContainer_thumbnail" src={imgSrc} />
@@ -13,7 +13,9 @@ function VideoContainer({ imgSrc, avatarSrc, title }) {
         />
         <div className="videoContainer_content_desc">
           <h5>{ title }</h5>
-          <h6>비디오 설명</h6>
+          <h6>{subscriber}</h6>
+          <h6>{`${views} · ${uploadTime}`}</h6>
+
         </div>
       </div>
     </div>
