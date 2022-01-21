@@ -20,9 +20,17 @@
 }
 
 .videoContainer_content_desc > h5 {
-  margin: 0;
-  margin-bottom: 10px;
-  font-weight: 400;
+  font-size: small;
+  font-weight: 600;
+  display: -webkit-box;
+  max-width: 100%;
+  margin: 0 auto;
+  -webkit-line-clamp: 2;
+  /* autoprefixer: off */
+  -webkit-box-orient: vertical;
+  /* autoprefixer: on */
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .videoContainer_content_desc > h6 {
