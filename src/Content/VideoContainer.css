@@ -1,8 +1,31 @@
 .videoContainer {
-
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+  width: 320px;
 }
 
 .videoContainer_thumbnail {
-    width: 250px;
-    height: 140px;
+    width: 320px;
+    height: 180px;
+}
+
+.videoContainer_content {
+  display: flex;
+  padding-top: 10px;
+}
+
+.videoContainer_content_desc {
+  padding-left: 10px;
+}
+
+.videoContainer_content_desc > h5 {
+  margin: 0;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.videoContainer_content_desc > h6 {
+  margin: 0;
+
 }
