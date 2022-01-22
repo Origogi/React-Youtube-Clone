@@ -16,10 +16,11 @@ function App() {
         </div>
         <div className="App_content">
           <TagContainer />
-          <VideoContentsContainer />
+          <div className="App_content_video">
+            <VideoContentsContainer />
+          </div>
         </div>
       </div>
-
     </div>
   );
 }

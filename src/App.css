@@ -8,6 +8,7 @@
   overflow-y: scroll;
 }
 
+
 .App_sidebar::-webkit-scrollbar-thumb {
   height: 56px;
   border-radius: 8px;
